@@ -2,7 +2,6 @@
 
 <p align="center">
 A collection of 9 games and educational tools built for the Purple-Kit (Arduino Mega 2560) — designed for elementary school students learning physical computing.
-
 Every project uses the same 5×5 LED matrix, RGB LED, buzzer, potentiometer, buttons, and LDR that come with the Purple-Kit. No extra hardware required.
 </p>
 
